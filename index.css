@@ -32,7 +32,7 @@
 .switch-item {
 	padding: 10px;
 	flex-basis: 34%;
-	border-left: 1px solid #595959;
+	border-left: 1px solid #1b9af5;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -44,7 +44,7 @@
 }
 
 .switch-item:hover {
-	background-color: #85caff;
+	background-color: #ededed;
 }
 
 .switch-item:first-child {
@@ -189,15 +189,16 @@ div.card-left form > div:nth-child(2) > input {
 		flex-direction: column;
 	}
 	.calculator h2 {
-		font-size: 52px;
+		font-size: 42px;
 	}
 	.card-left{
 		border-right: none;
 		border-bottom: 1px solid #000;
-		width: 80%;
+		width: 100%;
+		padding: 20px;
 	}
 	.card-right{
-		width: 80%;
+		width: 100%;
 	}
 	.image{
 		display: none !important;
