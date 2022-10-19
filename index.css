@@ -197,6 +197,9 @@ div.card-left form > div:nth-child(2) > input {
 		width: 100%;
 		padding: 20px;
 	}
+	.card-left form input{
+		width: 100%;
+	}
 	.card-right{
 		width: 100%;
 	}
